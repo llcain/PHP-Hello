@@ -12,7 +12,7 @@
         <ul>
             <li>Home</li>
             <li>About</li>
-            <li>Contact</li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
 
