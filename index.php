@@ -7,10 +7,15 @@
 </head>
 <body>
     
-    
+    <nav>
+        <div class="logo">Logo</div>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
 
-    <?php
-    echo "Hello LaQuisha!!";
-    ?>
+   <p>Copyright &copy: CM Cawley <?php echo date("Y-m-d"); ?></p>
 </body>
 </html>
